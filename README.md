@@ -1,5 +1,5 @@
 # google-form-from-sheet
-Simple way to read Google Sheet into a Google Form
+Simple way to read Google Sheet into a Google Form using Google Apps Script.  Creates a simple Google Forms survey from spreadsheet on Google Sheets using checkboxes and limiting to one response per user.
 
 # usage
 1) Create a Google Sheet
